@@ -1,6 +1,6 @@
 {
 	"name": "@n8n-dev/n8n-nodes-md-to-whatsapp",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"description": "n8n community node that converts Markdown text into WhatsApp-compatible formatting (*bold*, _italic_, ~strike~, ```monospace```)",
 	"license": "MIT",
 	"homepage": "https://github.com/n8n-code/n8n-nodes-md-to-whatsapp",
