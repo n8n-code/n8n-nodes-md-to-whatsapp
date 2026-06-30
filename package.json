@@ -17,7 +17,8 @@
 		"workflow"
 	],
 	"author": {
-		"name": "n8n-code"
+		"name": "n8n-code",
+		"email": "kelvinandriancom@gmail.com"
 	},
 	"repository": {
 		"type": "git",
