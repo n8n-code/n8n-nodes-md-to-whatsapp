@@ -1,0 +1,6 @@
+node_modules/
+tsconfig.tsbuildinfo
+*.log
+.DS_Store
+.env
+.vscode-test

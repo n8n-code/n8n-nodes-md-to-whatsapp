@@ -1,0 +1,13 @@
+{
+	"node": "mdToWhatsapp",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data Transformation", "Communication"],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/n8n-code/n8n-nodes-md-to-whatsapp"
+			}
+		]
+	}
+}
